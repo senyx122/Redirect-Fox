@@ -35,7 +35,7 @@ It is designed for **security researchers**, **penetration testers**, and **bug 
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/Redirect-Fox.git
+git clone https://github.com/senyx122/Redirect-Fox.git
 cd Redirect_Fox
 chmod +x Redirect_Fox.sh
 ```
@@ -43,7 +43,7 @@ chmod +x Redirect_Fox.sh
 Or download single script:
 
 ```bash
-curl -Lo Redirect_Fox.sh https://raw.githubusercontent.com/yourusername/Redirect_Fox/main/Redirect-Fox.sh
+curl -Lo Redirect_Fox.sh https://raw.githubusercontent.com/senyx122/Redirect_Fox/main/Redirect-Fox.sh
 chmod +x Redirect_Fox.sh
 ```
 
