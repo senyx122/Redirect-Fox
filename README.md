@@ -1,4 +1,3 @@
-ح
 # Redirect\_Fox 🦊
 
 Redirect\_Fox is a **fast and intelligent Open Redirect vulnerability scanner** written in **Bash**.
