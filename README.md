@@ -36,7 +36,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/senyx122/Redirect-Fox.git
-cd Redirect_Fox
+cd Redirect-Fox
 chmod +x Redirect_Fox.sh
 ```
 
